@@ -1,0 +1,31 @@
+.battery {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f0f0f0;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  margin: 8px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.blue {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.green {
+  background-color: #28a745;
+  color: #fff;
+}
+
+.yellow {
+  background-color: #ffc107;
+  color: #000;
+}
+
+.red {
+  background-color: #dc3545;
+  color: #fff;
+}
